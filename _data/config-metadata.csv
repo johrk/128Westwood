@@ -2,20 +2,20 @@ field,display_name,browse_link
 title,Title,
 creator,Creator,
 date,Date Created,
-timeofday,Time of Day Captured,
+timeofday,Time of Day Captured,true
 description,Description,
 subject,Subjects,true
-location,Location
+location,Location,true
 latitude,Latitude,
 altitude,Altitude,
 bearingdestination,Bearing Destination,
 longitude,Longitude,
 source,Source
-site,Site
-course,Course,
+site,Site,true
+course,Course,true
 identifier,Source Identifier
 type,Type,
-shottype,Shot Type,
+shottype,Shot Type,true
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,
