@@ -17,5 +17,6 @@ identifier,Source Identifier
 type,Type,
 shottype,Shot Type,true
 format,Format,
+source,Source,
 rights,Rights,
 rightsstatement,Rights Statement,
