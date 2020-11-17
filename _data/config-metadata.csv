@@ -10,7 +10,7 @@ latitude,Latitude,
 longitude,Longitude,
 altitude,Altitude,
 bearingdestination,Bearing Destination,
-source,Source
+source,Source,
 site,Site,true
 course,Course,true
 identifier,Source Identifier
