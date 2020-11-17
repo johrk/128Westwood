@@ -7,9 +7,9 @@ description,Description,
 subject,Subjects,true
 location,Location,true
 latitude,Latitude,
+longitude,Longitude,
 altitude,Altitude,
 bearingdestination,Bearing Destination,
-longitude,Longitude,
 source,Source
 site,Site,true
 course,Course,true
