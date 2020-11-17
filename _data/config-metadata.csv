@@ -5,6 +5,7 @@ date,Date Created,
 timeofday,Time of Day Captured,true
 description,Description,
 subject,Subjects,true
+filename,File,
 location,Location,true
 latitude,Latitude,
 longitude,Longitude,
